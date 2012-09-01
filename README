@@ -1,0 +1,2 @@
+get user info from ConfigPit's yaml file.
+need to match  argsnames to yaml key's name.
